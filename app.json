@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "job_finder",
-    "slug": "job_finder"
+    "slug": "job_finder",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
