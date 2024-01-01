@@ -6,6 +6,6 @@
 - Reusble components
 - Rapid API
 
-- [Screenshot1](./assets//screenshot1.png)
+![Screenshot2](./assets/screenshot2.png)
 
-- [Screenshot2](./assets//screenshot2.png)
+![Screenshot1](./assets/screenshot1.png)
